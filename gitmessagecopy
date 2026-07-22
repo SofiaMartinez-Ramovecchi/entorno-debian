@@ -1,0 +1,7 @@
+tipo(alcance): descripción breve
+
+# Ejemplos:
+# feat(auth): agregar autenticación con GitHub
+# fix(api): corregir validación del usuario
+# refactor(core): separar servicios del framework
+# docs(readme): actualizar instrucciones
